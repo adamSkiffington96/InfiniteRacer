@@ -1,18 +1,10 @@
 
 # Infinite Racer
 
-An infinite-running style game with a treadmill of obstacles which move toward the player
+An infinite-running style game with a treadmill of obstacles which move toward the player. Keep score and see how long you can last
 
 
 ![App Screenshot](https://i.imgur.com/5w18QtC.png)
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Snippets
@@ -273,12 +265,5 @@ public class CarCameraSystem : MonoBehaviour
 </details>
 
 
-## Optimizations
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Demo
-
-Insert gif or link to demo
 

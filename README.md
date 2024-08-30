@@ -1,10 +1,8 @@
 
-# Project Title
+# Infinite Racer
 
-A brief description of what this project does and who it's for
+An infinite-running style game with a treadmill of obstacles which move toward the player
 
-
-## Screenshots
 
 ![App Screenshot](https://i.imgur.com/5w18QtC.png)
 
